@@ -13,20 +13,13 @@ header {
 
 .right-side-nav {
   float: right;
-}
-
-.nav-bar {
-  margin: 0;
-  padding-top: 6px;
+  margin-top: 5px;
 }
 
 .feature-and-security {
   margin-right: 20px;
   display: inline;
   font-size: 90%;
-}
-
-.feature-and-security-font-visual {
   text-decoration: none;
   color: rgb(187, 189, 193);
 }
@@ -37,9 +30,6 @@ header {
   font-size: 90%;
   background-color: rgb(0, 214, 127);
   border-radius: 4px;
-}
-
-.green-sign-in-button-font-visual {
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
