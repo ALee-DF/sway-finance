@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro';
+  background-color: rgb(238, 238, 238);
+}
+
+header {
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  padding: 10px 100px;
+  background-color: rgb(31, 36, 50);
+}
+
+.right-side-nav {
+  float: right;
+  margin-top: 5px;
+}
+
+.feature-and-security {
+  margin-right: 20px;
+  display: inline;
+  font-size: 90%;
+  text-decoration: none;
+  color: rgb(187, 189, 193);
+}
+
+.green-sign-in-button {
+  padding: 7px 14px;
+  display: inline;
+  font-size: 90%;
+  background-color: rgb(0, 214, 127);
+  border-radius: 4px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.sway-logo-resize {
+  width: 91px;
+  height: 30px;
+}
