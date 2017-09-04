@@ -55,3 +55,8 @@ div section h1 {
   font-weight: 300;
   color: rgb(255, 255, 255);
 }
+
+div section p {
+  font-weight: 300;
+  color: rgb(210, 211, 214);
+}
