@@ -44,3 +44,9 @@ div.watch-and-subscribe {
   margin-right: 7.5%;
   background-color: rgb(31, 37, 50);
 }
+
+.column1of2,
+.column2of2 {
+  float: left;
+  width: 50%;
+}
