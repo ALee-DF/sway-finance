@@ -60,3 +60,9 @@ div section p {
   font-weight: 300;
   color: rgb(210, 211, 214);
 }
+
+.green-email-sign-up-button {
+  text-decoration: none;
+  background-color: rgb(63, 304, 127);
+  color: rgb(255, 255, 255);
+}
