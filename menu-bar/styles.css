@@ -38,3 +38,9 @@ header {
   width: 91px;
   height: 30px;
 }
+
+div.watch-and-subscribe {
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  background-color: rgb(31, 37, 50);
+}
