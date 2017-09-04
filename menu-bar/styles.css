@@ -101,3 +101,9 @@ div section p {
   width: 80px;
   height: 80px;
 }
+
+div.product-features {
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  background-color: rgb(238, 249, 253);
+}
