@@ -42,11 +42,16 @@ header {
 div.watch-and-subscribe {
   margin-left: 7.5%;
   margin-right: 7.5%;
-  background-color: rgb(31, 37, 50);
 }
 
 .column1of2,
 .column2of2 {
   float: left;
   width: 50%;
+  background-color: rgb(31, 37, 50);
+}
+
+div section h1 {
+  font-weight: 300;
+  color: rgb(255, 255, 255);
 }
