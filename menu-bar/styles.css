@@ -72,13 +72,19 @@ div section p {
 
 .email-area {
   margin-left: 100px;
-  font-size: 19px;
+  margin-right: 5px;
+  border-radius: 4px 0 0 4px;
+  font-size: 13px;
+  padding: 3px 10px;
 }
 
 .green-email-sign-up-button {
+  border-radius: 0 4px 4px 0;
   text-decoration: none;
   font-family: 'Titillium Web';
-  background-color: rgb(63, 304, 127);
+  padding: 3px 40px;
+  font-size: 13px;
+  background-color: rgb(63, 202, 127);
   color: rgb(255, 255, 255);
 }
 
@@ -90,8 +96,8 @@ div section p {
 
 .play-button-resize {
   position: relative;
-  right: 250px;
-  bottom: 90px;
+  bottom: 175px;
+  left: 165px;
   width: 80px;
   height: 80px;
 }
