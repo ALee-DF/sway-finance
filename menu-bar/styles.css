@@ -27,6 +27,7 @@ header {
 .green-sign-in-button {
   padding: 7px 14px;
   display: inline;
+  font-family: 'Titillium Web';
   font-size: 90%;
   background-color: rgb(0, 214, 127);
   border-radius: 4px;
@@ -48,26 +49,41 @@ div.watch-and-subscribe {
 .column2of2 {
   float: left;
   width: 50%;
+  height: 500px;
   background-color: rgb(31, 37, 50);
 }
 
 div section h1 {
-  font-weight: 300;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-family: 'Titillium Web';
+  font-size: 40px;
+  font-weight: 100;
+  line-height: 45px;
   color: rgb(255, 255, 255);
 }
 
 div section p {
+  margin-left: 100px;
+  font-size: 19px;
   font-weight: 300;
   color: rgb(210, 211, 214);
 }
 
+.email-area {
+  margin-left: 100px;
+  font-size: 19px;
+}
+
 .green-email-sign-up-button {
   text-decoration: none;
+  font-family: 'Titillium Web';
   background-color: rgb(63, 304, 127);
   color: rgb(255, 255, 255);
 }
 
 .video-resize {
+  margin-top: 100px;
   width: 412.5px;
   height: 275.25px;
 }
