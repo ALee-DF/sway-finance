@@ -1,12 +1,12 @@
 body {
   margin: 0;
+  padding-left: 7.5%;
+  padding-right: 7.5%;
   font-family: 'Source Sans Pro';
   background-color: rgb(238, 238, 238);
 }
 
 header {
-  margin-left: 7.5%;
-  margin-right: 7.5%;
   padding: 10px 100px;
   background-color: rgb(31, 36, 50);
 }
@@ -38,11 +38,6 @@ header {
 .sway-logo-resize {
   width: 91px;
   height: 30px;
-}
-
-div.watch-and-subscribe {
-  margin-left: 7.5%;
-  margin-right: 7.5%;
 }
 
 .column1of2,
@@ -103,7 +98,16 @@ div section p {
 }
 
 div.product-features {
-  margin-left: 7.5%;
-  margin-right: 7.5%;
+  text-align: center;
   background-color: rgb(238, 249, 253);
+}
+
+.column1of3,
+.column2of3,
+.column3of3 {
+  display: inline-block;
+  width: 250px;
+  height: 200px;
+  text-align: left;
+  background-color: rgb(255, 255, 255);
 }
