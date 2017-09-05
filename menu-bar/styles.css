@@ -106,6 +106,7 @@ div.product-features {
 .column2of3,
 .column3of3 {
   display: inline-block;
+  overflow: hidden;
   width: 325px;
   height: 250px;
   margin: 75px 10px;
