@@ -112,3 +112,23 @@ div.product-features {
   text-align: left;
   background-color: rgb(255, 255, 255);
 }
+
+.small-icon-background {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(49, 115, 207);
+  border-radius: 4px;
+}
+
+.small-icon-resize-1-2 {
+  margin: 15px;
+  width: 20px;
+  height: 20px;
+}
+
+.small-icon-resize-3 {
+  margin-left: 7.5px;
+  margin-top: 12px;
+  width: 35px;
+  height: 26px;
+}
