@@ -135,5 +135,12 @@ div.product-features {
 }
 
 .product-features-header {
-  color: black;
+  font-size: 22px;
+  color: rgb(31, 36, 51);
+}
+
+.product-features-description {
+  font-size: 20px;
+  font-weight: lighter;
+  color: rgb(109, 114, 131);
 }
