@@ -1,12 +1,12 @@
 body {
   margin: 0;
+  padding-left: 7.5%;
+  padding-right: 7.5%;
   font-family: 'Source Sans Pro';
   background-color: rgb(238, 238, 238);
 }
 
 header {
-  margin-left: 7.5%;
-  margin-right: 7.5%;
   padding: 10px 100px;
   background-color: rgb(31, 36, 50);
 }
@@ -40,11 +40,6 @@ header {
   height: 30px;
 }
 
-div.watch-and-subscribe {
-  margin-left: 7.5%;
-  margin-right: 7.5%;
-}
-
 .column1of2,
 .column2of2 {
   float: left;
@@ -53,7 +48,7 @@ div.watch-and-subscribe {
   background-color: rgb(31, 37, 50);
 }
 
-div section h1 {
+h1.company-header {
   margin-top: 120px;
   margin-left: 100px;
   font-family: 'Titillium Web';
@@ -63,7 +58,7 @@ div section h1 {
   color: rgb(255, 255, 255);
 }
 
-div section p {
+p.company-pitch {
   margin-left: 100px;
   font-size: 19px;
   font-weight: 300;
@@ -100,4 +95,53 @@ div section p {
   left: 165px;
   width: 80px;
   height: 80px;
+}
+
+div.product-features {
+  text-align: center;
+  background-color: rgb(238, 249, 253);
+}
+
+.column1of3,
+.column2of3,
+.column3of3 {
+  display: inline-block;
+  overflow: hidden;
+  width: 325px;
+  height: 250px;
+  margin: 75px 10px;
+  padding: 20px;
+  text-align: left;
+  background-color: rgb(255, 255, 255);
+}
+
+.small-icon-background {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(49, 115, 207);
+  border-radius: 4px;
+}
+
+.small-icon-resize-1-2 {
+  margin: 15px;
+  width: 20px;
+  height: 20px;
+}
+
+.small-icon-resize-3 {
+  margin-left: 7.5px;
+  margin-top: 12px;
+  width: 35px;
+  height: 26px;
+}
+
+.product-features-header {
+  font-size: 22px;
+  color: rgb(31, 36, 51);
+}
+
+.product-features-description {
+  font-size: 20px;
+  font-weight: lighter;
+  color: rgb(109, 114, 131);
 }
