@@ -48,7 +48,7 @@ header {
   background-color: rgb(31, 37, 50);
 }
 
-div section h1 {
+h1.company-header {
   margin-top: 120px;
   margin-left: 100px;
   font-family: 'Titillium Web';
@@ -58,7 +58,7 @@ div section h1 {
   color: rgb(255, 255, 255);
 }
 
-div section p {
+p.company-pitch {
   margin-left: 100px;
   font-size: 19px;
   font-weight: 300;
@@ -109,6 +109,7 @@ div.product-features {
   width: 325px;
   height: 250px;
   margin: 75px 10px;
+  padding: 20px;
   text-align: left;
   background-color: rgb(255, 255, 255);
 }
@@ -131,4 +132,8 @@ div.product-features {
   margin-top: 12px;
   width: 35px;
   height: 26px;
+}
+
+.product-features-header {
+  color: black;
 }
