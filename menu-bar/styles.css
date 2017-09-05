@@ -106,8 +106,9 @@ div.product-features {
 .column2of3,
 .column3of3 {
   display: inline-block;
-  width: 250px;
-  height: 200px;
+  width: 325px;
+  height: 250px;
+  margin: 75px 10px;
   text-align: left;
   background-color: rgb(255, 255, 255);
 }
