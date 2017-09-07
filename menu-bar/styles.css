@@ -150,7 +150,9 @@ div.product-features {
 .slack-col-2-of-2 {
   float: left;
   width: 50%;
+  height: 500px;
   background-color: rgb(248, 249, 253);
+  overflow: hidden;
 }
 
 #slack-demo-header {
@@ -173,6 +175,7 @@ div.product-features {
 }
 
 #slack-demo-picture {
+  margin-top: 11%;
   width: 542px;
   height: 386px;
 }
