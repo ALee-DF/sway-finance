@@ -46,6 +46,7 @@ header {
   width: 50%;
   height: 500px;
   background-color: rgb(31, 37, 50);
+  overflow: hidden;
 }
 
 h1.company-header {
@@ -156,16 +157,23 @@ div.product-features {
 }
 
 #slack-demo-header {
+  margin-top: 25%;
+  margin-left: 20%;
+  margin-right: 15%;
   font-size: 25px;
   color: rgb(31, 36, 51);
 }
 
 #slack-demo-paragraph {
+  margin-left: 20%;
+  margin-right: 15%;
+  margin-bottom: 5%;
   font-size: 20px;
   color: rgb(105, 112, 130);
 }
 
 #slack-demo-button {
+  margin-left: 20%;
   text-decoration: none;
   font-size: 15px;
   color: rgb(255, 255, 255);
