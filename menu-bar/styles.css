@@ -171,3 +171,8 @@ div.product-features {
   background-color: rgb(0, 214, 127);
   border-radius: 4px;
 }
+
+#slack-demo-picture {
+  width: 542px;
+  height: 386px;
+}
