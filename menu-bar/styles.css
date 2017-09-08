@@ -80,7 +80,7 @@ p.company-pitch {
   font-family: 'Titillium Web';
   padding: 3px 40px;
   font-size: 13px;
-  background-color: rgb(63, 202, 127);
+  background-color: rgb(0, 214, 127);
   color: rgb(255, 255, 255);
 }
 
@@ -186,4 +186,10 @@ div.product-features {
   margin-top: 10%;
   width: 677.5px;
   height: 482.5px;
+}
+
+#email-subscription {
+  clear: left;
+  height: 200px;
+  background-color: rgb(49, 115, 207);
 }
