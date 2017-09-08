@@ -190,9 +190,9 @@ div.product-features {
 
 #email-subscription {
   clear: left;
-  height: 150px;
+  height: 200px;
+  padding-top: 75px;
   text-align: center;
-  padding-top: 45px;
   background-color: rgb(49, 115, 207);
 }
 
@@ -204,37 +204,52 @@ div.product-features {
 }
 
 #email-subscription-header {
+  font-family: 'Titillium Web';
   font-size: 20px;
   font-weight: 100;
   color: rgb(230, 232, 246);
 }
 
 footer {
-  height: 150px;
-  padding: 0 20px;
+  padding: 20px 150px;
   background-color: rgb(31, 36, 51);
 }
 
 #footer-sway-logo {
   float: left;
-  width: 100px;
-  height: 141.5;
+  width: 50px;
+  height: 70.75;
+  margin-top: 25px;
+  margin-right: 225px;
 }
 
 .footer-column-1-of-2,
 .footer-column-2-of-2 {
   width: 200px;
+  height: 175px;
   float: left;
 }
 
 .footer-header {
+  font-family: 'Titillium Web';
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
   color: rgb(255, 255, 255);
 }
 
 .footer-paragraph {
+  font-size: 15px;
+  text-decoration: none;
   color: rgb(210, 211, 214);
 }
 
 #copyright {
   clear: left;
+  padding-top: 15px;
+  border-top: solid;
+  border-top-color: rgb(53, 57, 71);
+  border-top-width: thin;
+  font-size: 12px;
+  color: rgb(210, 211, 214);
 }
