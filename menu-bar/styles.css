@@ -226,3 +226,11 @@ footer {
   width: 200px;
   float: left;
 }
+
+.footer-header {
+  color: rgb(255, 255, 255);
+}
+
+.footer-paragraph {
+  color: rgb(210, 211, 214);
+}
