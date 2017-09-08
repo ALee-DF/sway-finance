@@ -208,3 +208,13 @@ div.product-features {
   font-weight: 100;
   color: rgb(230, 232, 246);
 }
+
+footer {
+  height: 150px;
+  background-color: rgb(31, 36, 51);
+}
+
+#footer-sway-logo {
+  width: 100px;
+  height: 141.5;
+}
