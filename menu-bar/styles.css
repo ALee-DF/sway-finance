@@ -223,8 +223,6 @@ footer {
 
 .footer-column-1-of-2,
 .footer-column-2-of-2 {
-  float: left;
   width: 200px;
-  color: blue;
-  background-color: red;
+  float: left;
 }
