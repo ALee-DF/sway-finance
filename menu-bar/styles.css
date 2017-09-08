@@ -234,3 +234,7 @@ footer {
 .footer-paragraph {
   color: rgb(210, 211, 214);
 }
+
+#copyright {
+  clear: left;
+}
